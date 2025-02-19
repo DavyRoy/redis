@@ -74,7 +74,7 @@ ZRANGE leaderboard 0 -1 WITHSCORES
 ```
 
 `Cкриншоты
-![docker-node.png](https://github.com/DavyRoy/docker/blob/main/my-node/images/docker-node.png)`
+![скриншот](ссылка на скришот)`
 
 ---
 
