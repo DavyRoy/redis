@@ -139,7 +139,7 @@ python publisher.py
 ```
 
 `Cкриншоты
-![Pub](https://github.com/DavyRoy/docker/blob/main/docker-network/images/docker-network.png)`
+![Pub](https://github.com/DavyRoy/redis/blob/main/images/Pub.png)
 
 ---
 
